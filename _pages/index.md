@@ -15,7 +15,7 @@ permalink: /
 
 # | 花譜-KAF-  |  可不-KAFU-  |
   |-----|-----|
-  | ![image](/kit_trial/assets/images/kaf.png)| ![image](/kit_trial/assets/images/kafu.jpeg   |
+  | ![image](/kit_trial/assets/images/kaf.png)| ![image](/kit_trial/assets/images/kafu.jpeg )  |
   | 内容  | 内容  |
 ### 見出し3
 #### 見出し4
