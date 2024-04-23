@@ -13,9 +13,9 @@ permalink: /
 
 以下テンプレート
 
-# | 花譜-KAF-   可不-KAFU-  |
+# | 花譜-KAF-  |  可不-KAFU-  |
   |-----|-----|
-  | ![image](/GHPages_WebSite/assets/images/kaf.png)| 内容  |
+  | ![image](/GHPages_WebSite/assets/images/kaf.png)|   |
   | 内容  | 内容  |
 ### 見出し3
 #### 見出し4
